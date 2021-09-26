@@ -7,3 +7,4 @@
 
 #Activity 2:
 
+![screenshot of activity 2](./images/Activity2.png)
